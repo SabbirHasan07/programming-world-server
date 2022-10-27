@@ -23,7 +23,14 @@
         "detail" : "C++ (pronounced) is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language. The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms.",
         "image": "https://studyopedia.com/wp-content/uploads/2017/09/C-Programming.png"
     },
-   
+    {
+        "id" : 4,
+        "name": "python programming",
+        "rating" : "5",
+        "description" : "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.",
+        "detail" : "In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices. You’ll learn to represent and store data using Python data types and variables, and use conditionals and loops to control the flow of your programs. You’ll harness the power of complex data structures like lists, sets, dictionaries, and tuples to store collections of related data. You’ll define and document your own custom functions, write scripts, and handle errors. Lastly, you’ll learn to find and use modules in the Python Standard Library and other third-party libraries.",
+        "image": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png"
+    },
     {
         "id" : 5,
         "name": "kotlin programming language",
